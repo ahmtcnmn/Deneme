@@ -1,4 +1,5 @@
 # Deneme
 
 ## Alt Bilgi
-asdasdasd
+- Git
+-Github
